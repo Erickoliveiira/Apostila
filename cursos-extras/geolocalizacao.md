@@ -26,7 +26,7 @@ CURSO DE GEOLOCALIZAÇÃO
 
 DESTINADO A POLÍCIA DA MORADA DO VALLEY (PRFE)
 
-![](<../.gitbook/assets/fundo 2.gif>)
+<figure><img src="../.gitbook/assets/fundo 2.gif" alt=""><figcaption></figcaption></figure>
 
 \
 
@@ -48,16 +48,24 @@ O termo geolocalização surgiu com o objetivo de auxiliar em tempos de guerra, 
 
 MAPA DE REGIÕES
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTvc2_7irKVKsihkcVtMN6nHsTunfOD34guTYvyCPgl3D1j46s_qRoMC31x45wOJhI1xVfnu-3WPcun6jgB-IFhGLm4IS6Djs7hCUKURnTNxyUdBPErUyuPac411Z45IeOx9JoJOZyBRlpGxL9UR40ykOy=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTvc2_7irKVKsihkcVtMN6nHsTunfOD34guTYvyCPgl3D1j46s_qRoMC31x45wOJhI1xVfnu-3WPcun6jgB-IFhGLm4IS6Djs7hCUKURnTNxyUdBPErUyuPac411Z45IeOx9JoJOZyBRlpGxL9UR40ykOy=s800?key=CkNyrCBdkyndXEjk8IRlMw" alt=""><figcaption></figcaption></figure>
 
 ROTA
 
 Região 10
 
-* Alagados\
-  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPh2lXTbbkEo10ks1M2p4mgdbMSlEZ617uJvWT_tKlYdSAsjHJLeDa6kYtwz7-3RZ0ruyFRViZYuZPrLs_JqT48LJW4Eogwc4vJ3x8TJ0sSrJhgTu-0QRRzLj3L-oLypAOILafwfyqTzDXgVZkqAWMRawh=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvYDq3P4YBmROAMNwJ3n-aeRvg6EAc47M-HXGWKDnafV2U3uV0hV2fUtcCzacxlEKxEfYI0oZyey-CH032Yho5CnSqJdGM-_r0LehDJqLZTRMJ_NPGklDPI63uHnFT_WlXHlT1vwHJc95IzB8ws04UHzby=s800?key=CkNyrCBdkyndXEjk8IRlMw)
-* Pier\
-  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0Srzu3EYWasXRlpjHA_q_IrzZ1DbSNKFg-rvp8k6Iu4aAzMRJuh4HMyTZ4WSmYhbSQZ770wVQqS30ehDRg1eV_Fmgml9Khz7rnxxkLvZOwS9M3hKVII6IfBTonbSuhDY-Jf8VfkLKH0GjKWe3sbnpWis=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1UIjK-na4ZxmOlEBk06dL2aTi54mMB0ZxECx3rqc2S47FptfzksNZJyB03Hgb5uCMvasyZQEnvzulef9osBhjJHWMwqmoUefP7rvDZl8HuOy_kwGoeK0E-lhIogQtQoZhCc7EXTYqwTW3SIeQOJVQciQ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+*   Alagados\
+
+
+    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPh2lXTbbkEo10ks1M2p4mgdbMSlEZ617uJvWT_tKlYdSAsjHJLeDa6kYtwz7-3RZ0ruyFRViZYuZPrLs_JqT48LJW4Eogwc4vJ3x8TJ0sSrJhgTu-0QRRzLj3L-oLypAOILafwfyqTzDXgVZkqAWMRawh=s800?key=CkNyrCBdkyndXEjk8IRlMw" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvYDq3P4YBmROAMNwJ3n-aeRvg6EAc47M-HXGWKDnafV2U3uV0hV2fUtcCzacxlEKxEfYI0oZyey-CH032Yho5CnSqJdGM-_r0LehDJqLZTRMJ_NPGklDPI63uHnFT_WlXHlT1vwHJc95IzB8ws04UHzby=s800?key=CkNyrCBdkyndXEjk8IRlMw" alt=""><figcaption></figcaption></figure>
+*   Pier\
+
+
+    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0Srzu3EYWasXRlpjHA_q_IrzZ1DbSNKFg-rvp8k6Iu4aAzMRJuh4HMyTZ4WSmYhbSQZ770wVQqS30ehDRg1eV_Fmgml9Khz7rnxxkLvZOwS9M3hKVII6IfBTonbSuhDY-Jf8VfkLKH0GjKWe3sbnpWis=s800?key=CkNyrCBdkyndXEjk8IRlMw" alt="" width="563"><figcaption></figcaption></figure>
+
+    <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1UIjK-na4ZxmOlEBk06dL2aTi54mMB0ZxECx3rqc2S47FptfzksNZJyB03Hgb5uCMvasyZQEnvzulef9osBhjJHWMwqmoUefP7rvDZl8HuOy_kwGoeK0E-lhIogQtQoZhCc7EXTYqwTW3SIeQOJVQciQ=s800?key=CkNyrCBdkyndXEjk8IRlMw" alt=""><figcaption></figcaption></figure>
 * Praia\
   ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvU0FdWtEY0FHXE9THk_RGF7qJzu-_54C6OxareG90KIw_GV8NZr3zJ8QXKC05gq0QZFabzqYABDoRR3ctupW2EEKSf90WroicIN8VzCdGtFmylrm1-CQsGzT71HmH5uCtNDJKFozNAiPqQqBJyCOjWsH3=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeVNdT87I64Q6xUPBcsLeT3j_ox3RZ1ZEh8wbNOYh9Pv0BPd-J-NvnwELJPUf8vjA1rmIVPtxuQsmOcDMoIImGKTO9vUFHuLNTGjw8wbDhFedaK8OoBLXnBqRZaMC2LCxsEKPvfhfAJPV5bRqTfMTAFXGN5=s800?key=CkNyrCBdkyndXEjk8IRlMw)
 * Murinho/Bloods Praia\
