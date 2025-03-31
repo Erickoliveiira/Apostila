@@ -1,6 +1,6 @@
 ---
 cover: ../.gitbook/assets/geoo.gif
-coverY: -440.78982797307407
+coverY: -390.7898279730741
 layout:
   cover:
     visible: true
