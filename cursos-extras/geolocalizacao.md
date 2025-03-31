@@ -1,0 +1,274 @@
+---
+cover: ../.gitbook/assets/geoo.gif
+coverY: -440.78982797307407
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
+# 🌍 Geolocalização
+
+\
+
+
+CURSO DE GEOLOCALIZAÇÃO
+
+DESTINADO A POLÍCIA DA MORADA DO VALLEY (PRFE)
+
+![](<../.gitbook/assets/fundo 2.gif>)
+
+\
+
+
+INTRODUÇÃO PARA CURSO
+
+\
+&#x20;       Este curso tem como objetivo passar o conhecimento sobre as regiões da cidade, a fim de auxiliar os oficiais da PRFE a terem uma melhor orientação para executar seu trabalho de modo geral. Este curso deve ser aplicado com máxima atenção pelos oficiais do Garra, pois como comentado acima ele é de suma importância para melhorar a eficiência do trabalho da PRFE.
+
+Quaisquer dúvidas ou sugestões para o curso devem ser tratadas com os comandos da divisão.
+
+INÍCIO
+
+INTRODUÇÃO AO CURSO DE GEOLOCALIZAÇÃO
+
+A geolocalização, também conhecida como georreferenciação, é um processo de identificação de informações geográficas, onde conseguimos identificar locais com maior precisão, ela também é bastante utilizada para outras coisas em nosso mundo e tem diversos objetivos, porém não cabe a nós freeza sobre isso, nosso objetivo em usar a geolocalização é apenas para melhor orientação em relação aos principais pontos da cidade, assim melhorando nossa eficiência em e tempo de resposta para agirmos.
+
+O termo geolocalização surgiu com o objetivo de auxiliar em tempos de guerra, ou seja, sua aplicação tem início no ambiente militar. O que faz total sentido, certo? Imagine um piloto  ABATEDOR que não sabe o que é geolocalização? Isso é algo muito preocupante.
+
+MAPA DE REGIÕES
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTvc2_7irKVKsihkcVtMN6nHsTunfOD34guTYvyCPgl3D1j46s_qRoMC31x45wOJhI1xVfnu-3WPcun6jgB-IFhGLm4IS6Djs7hCUKURnTNxyUdBPErUyuPac411Z45IeOx9JoJOZyBRlpGxL9UR40ykOy=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+ROTA
+
+Região 10
+
+* Alagados\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdPh2lXTbbkEo10ks1M2p4mgdbMSlEZ617uJvWT_tKlYdSAsjHJLeDa6kYtwz7-3RZ0ruyFRViZYuZPrLs_JqT48LJW4Eogwc4vJ3x8TJ0sSrJhgTu-0QRRzLj3L-oLypAOILafwfyqTzDXgVZkqAWMRawh=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvYDq3P4YBmROAMNwJ3n-aeRvg6EAc47M-HXGWKDnafV2U3uV0hV2fUtcCzacxlEKxEfYI0oZyey-CH032Yho5CnSqJdGM-_r0LehDJqLZTRMJ_NPGklDPI63uHnFT_WlXHlT1vwHJc95IzB8ws04UHzby=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Pier\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc0Srzu3EYWasXRlpjHA_q_IrzZ1DbSNKFg-rvp8k6Iu4aAzMRJuh4HMyTZ4WSmYhbSQZ770wVQqS30ehDRg1eV_Fmgml9Khz7rnxxkLvZOwS9M3hKVII6IfBTonbSuhDY-Jf8VfkLKH0GjKWe3sbnpWis=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1UIjK-na4ZxmOlEBk06dL2aTi54mMB0ZxECx3rqc2S47FptfzksNZJyB03Hgb5uCMvasyZQEnvzulef9osBhjJHWMwqmoUefP7rvDZl8HuOy_kwGoeK0E-lhIogQtQoZhCc7EXTYqwTW3SIeQOJVQciQ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Praia\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcvU0FdWtEY0FHXE9THk_RGF7qJzu-_54C6OxareG90KIw_GV8NZr3zJ8QXKC05gq0QZFabzqYABDoRR3ctupW2EEKSf90WroicIN8VzCdGtFmylrm1-CQsGzT71HmH5uCtNDJKFozNAiPqQqBJyCOjWsH3=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeVNdT87I64Q6xUPBcsLeT3j_ox3RZ1ZEh8wbNOYh9Pv0BPd-J-NvnwELJPUf8vjA1rmIVPtxuQsmOcDMoIImGKTO9vUFHuLNTGjw8wbDhFedaK8OoBLXnBqRZaMC2LCxsEKPvfhfAJPV5bRqTfMTAFXGN5=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Murinho/Bloods Praia\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe2R4AG-BPZB2PotIXz-4AlobowroQ0_4ZvBAgTOutssNgYESh1aJ-2z2J3NsokihOUewdQfRzgbLDOyE5wYg1RrlydRjG9SHXPhc7jGAh3lftwh5PoerPfX2eKehJLphzXqN5VFlHP1vgez9D84dbYJD8h=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc_9bSrHushwivRjvmWiUjzcYoLSi_xkgabpXl9HNjqUO7lkZuZwG0GsyoRVoULtLNghHYorlHKdq6PaP9_UIRqcP1MB5xTmlktACgD2wjV1SjDtK8-VQn-hwCwE169uCDgZp4E-8dnvYd5DcR6OUAHhw8=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 11
+
+* Posto da praia\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxZnyntM9rNmdGdmzMg0zEMq3eb-V9IsZwuQdQupyIQLLJ4VujjsUvX2pc2iyd4S9Z9WT9ykso-Y0gqXPYFGGeQU5xbLpF7Ve4HFIJO_f3RG0GaRdkfVaZoYWV5hqYp9a6eGRvxa7RE0Q5l0LNL5GCwAAw=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuOUXBv8WrG9rQI-OgNy3Z0vKwz62WkwJyS1ip62gD_EN1_8OoZTgJkJl4zNT63bLx9Ssudnz_mA2u2SxRiU6kCjkSsmKT2xZq6bW93FeceQ0SWMpDduHBFjES2spNlcrs-e-bWVVJUabCQ5V5H8aYcCkO=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Bahamas\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcHvLy8sfBTQH0E8wDH2LDUBbiRZr6WvzrQQ1yTktp6vnW4rs1oi0wLyBH_pqdH6pZQCEcVm_2K9GGv0gSqtTC8wd1-5pVm9tz0QMcQlCTfxD3yE2_9Kpgxd__6872wxop-ZLaHy10eN6rasTtJbBVskpYV=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJH8ZWFwLj4_M5VLJLexTmq0c6d-Bx3DcZ-GjmUCLwvW-m5_uM6yeSo7l4a0K4Zouhmf5nwo-nglNksviD2HxuSwGzj_KOSuuFmAVp0InFEekR3nFbbN6rAr2dUB6MlfRvtvFqZhGqsAzCq36UwCuhXh0I=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Cemitério\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXesZZYi_EgLWuzHh9hPWKIyDkxxrDDvwfvoOU1mUwVxrZI_e4eHOdjf84Li6-1-5aiGV-wC_lniCwjzuK2tbkCclhiR9RHLYVDeJQroE8fvpQVdEazLzPTg_L2loBfZWDIJ7gQUaLJWkPkwIq-28jjWglGE=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Faculdade\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYDUhMJ0_51Gya5xNdbBL2REJVIaRN0mu6p_yFkw2LnoJ1S-cBpckA-Ay1Q6tOAIdRVUXxOVmAxDyM_FhJcltMAeyQuXtwJ4KZESLOw1_tdeZFHB-EszBeRCxxmP299YXdbEP6O8yYXTAfI_AVykOPjfsF=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXepaN2NmXP4j_PotSp81RIeTgFF2QJW_ssCh3CuiO46NSGrBINDO-K4AUQbckkMnlNeHxOS2TAKZEAKcyEwO9uRb06pP39BN8UGt6cuPJvY0Zf6zchtX9Ea4kydq158ZveXBR9XbzdcKo6rEAIPzZFHbpRk=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Universidade\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXePGAoGAaQ78BFed99nudgXo2VcLYGRb415c4X2G4ExSD3rbV9mKnVTWr94M9IPcIh_w3aLS7u16x5VN2Xr6QIMBN8OmAQwidjSmgf7_19Bk0ALC3Uu2rEvna5hu5SPaBfvHLgB88IJzQ49c98MtV0mz3Hc=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7u_fCxk_5uI4Tw2Wsrs8tLd93_wb14EUpWSlVaStGBpJLPKa1B7Dr9NaWirQUDEPf9pEI4X8gww3eQl5j9GMMnuQVLuwNwOC07lkGUcayh9AwceMctrvbbnFiPXzJER1cQZHNT23rgcDxWRoFtrlShQqB=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Campo de Golf\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuuCyZFR8lN7GOtJUeJuJvUki3YPtdSvxE7CN0qKniPjWC6YC8Mm_qZV1JYv4mRK1nMIHnkg8zP0uwHNf7GwyL6nzAkmUu90_3rfhCKnor22O3-LDTYJHT5LKVHUTOyo4O3VCxENYzcthERWcxHQzNTpXj=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdVJoCXuUUc0iI7ZVj59HIYDPjqpa2P5GAEqEGU7Hvi_faiUBIfK571RIQ2WehSNgqV4J08z5VESOnI1KlhmsX0Z3JwK4g4p9jB8WlrjYFOe1KzJG9jBn7r5cOmPro96N-O3XKbBPiwl0VPkJ7-2A4H7B2_=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Flecca\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd-bcDL0Hs1PRnEabMceA2rwzxEnKi9M1L2Hzwok-snIcDkYFyiCJXqi6nx2jxtJkRWL_Yg8geOfb3sAQw9eqp2-Vo6WSQNwcHIXBzQrCE_K666BX15xKZy68UkE5dz27sIZHJ3w1jlLG1g9mj_PRpY3U3x=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe8ZMV9vdL_WXP5B2BU2BbKDBQpgjKSjTUiD2Xc-wuWU_0iOBfaYbjvMJIDxvNAF_-g69M7RzM7sKRJ-3AZOgAnTJ73fb0-w_a2sH4xW77vxpzJHWbn9hajyI8UiTMAm-sV5_OgTaxzS5nyZs2yyl5b2TI=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Mansão Playboy\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXex2CiDOyvUA2sLthDdwtPBAPllQTvnmXqlSqCUxuZAXKpHk0-6RSUjYow1RzGsOxkmxJlIb6KBaLgawwVDJiCMZDZqb93NdmBaqweB8DTm-7oYhhp2YlFWT22atugF6LDTMaav7YcNsZLc9v5OdmnAfQs=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd24-auc5zF4eRd0TLkp18UdQH-kMkCSe72lBqlIE-TGM_Y47saEoBBsh4EBL8PD6bNqinWRsRZCH4oZjcnRHkipD6x4jlr2xSeNjwX6bujxdk2bLWDP6BxQmGoVviFkYU2jKll8mqnr1htGbr_9CQqboRk=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Hotel\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWmBKL7c4PiJCAr96IO0IaRT4fwY8U-Zw3qV7o1-icE0ovoS5Yc3iIUV_G7YUeKHz5B0ZrbUIUA3quWm7jxLd1K5Bw4fDh_qvOljuh_lsCa6WMW3U6r7ZwoGEezeGQRq4P3fSNKkEIKwb4rx_8dSMvxGC9=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEW60v1a2fuvYltvTWe5cXiReAvrKWhenGFA7hPQqRv_SnduDUS5gqLbUx9jWRtjgABAPsyRbEwN3LBOjgKu5-IiX5WvY_mDXY_-kfeP3VOiimNmx41TBMgBtG2xFbj0iNY-X-XJ4opxEwV89suTAeQegz=s800?key=CkNyrCBdkyndXEjk8IRlMw)\
+
+
+Região 9
+
+* Estúdio\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXejSPl1jGUoH201f8I_r7WVtoxtihf2M6-SJheAAo6-qPN0v-y0ZlMY_P3RUvM9S6EmsXujaSMrN3PBVvRkefIS4rzL-svvrcqCSKDZaXsVJK9gBkL561COcxeZqzjWzN-M4tKiFXP1aqFGcxJfpGGyTgs=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0NXdVX6Am-RaHpfplWtZY7Z5vUAHr8GAaXOGXxnN24OxxeO1poOqNS8hQeNtf3eGdd_rKKsjWnov-D3Fl-pEA0KcbUCW1o7K6O13bVcGNZ0cFfsIENTRUYPr3x22kfLZW0wwWV-h5xSEnN-SclrPmFy8=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Cinema\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf1VmT98BKhnOyVKuWzZ2XmNF0t95IIRwfmF8gywKMxFfHZ3pugGPaGz3ToIs4JE47atbh97PFK8Itjt06fkUv1QgKQ5snqpL6Li3RTL1QCiudr-fHUCvCoVa8NUG37Yc4Qpu2uQOar2nXr-AgtgNcmQqcI=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcVnbJrtUtp_D4byICvjzX-bsqc5TWcTqZ6Ex7f7R2dvlja1z2m3IBN-_6N0HbvNC3ZOCKNpp0FJGy35doRifTewwKO5DtgM162j6Uq-c0rWbAmTlDMpU_JwN85ubzaLYz-6jLhtu88dqoMJNJR9rlKIWMP=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Estacionamento colorido\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-1WAYUw2EdEXTw3MfKl_8CtkpKlsa9EeSoAPVqmPP7_ibDpI0z9NTo2frGjmU_8-C4OWb7e29qV7GwKubqaG8FKgQwAu_UYj14WvE2OJb7LjxDqrEHTWsrZZiYTjp5g7VimCQrj3raGdQnko7tninI9cz=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeCmGqH9TKqwv2YiCpGdPLjm5krfbxjW6cuf30X7m8WY9tu9Z-VigRZOmoQjQP9qvg3kpft9n8V1upYdwYP5Finr-NhinnD69BnY1VQTB6kt-Hof0sXBD7V3diEcKUzicXVjmRC6-nV0sg3qguSWvKG2pw=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* China\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXetLtzLD7prV0sUFbkDkFFRRPwRHEX9vnMHnNiKRPxtxpf4HtjDKQ_5CxQnFyvUw7dZpwKRPx-xWW1YF7AJfhGNAtOmkkiC8VIIzvoTfexqv7n_Nx9ta4kaQm1h5LgPGx0oEwwpeQbNM4Q7zNuoKNH5xMAH=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLR3ffiJZzRm9bG3_sOpBavGTRnCj61FO-kbriOiqKf_fOteI5R7G5r1WuL69jmdN-SlU0CiXZ1Ov9Nr4tNJalGXrvrS_PsUfQxxuo3ksxrQ0r7uYtFDqYHKgtfsfLPQ1KZRlwe0Q07RLwgCxVqnH2M3q6=s800?key=CkNyrCBdkyndXEjk8IRlMw)\
+
+* Monumento China\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdrm2J7LCoPf4Jpwx0hsbaaimRmYutdzluD6hsJ7VOSloALt0ROX78El2oYcBy5OnySS3q3ZmaBJ84DqoTZqlh_E99reEpc8IRFd0supUq8C5XwyetxD8Y_MPCkdE_K_IsipE22e69NYLFDEuOoy_ppDx71=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBKyTKW1qEvJKNk6Ua8u-VFtsia50ax_DjXStBDHn5lfKj_1T7EUAjNQmVTpY8sLjHrkUr71GkRJaqgfD0XV5tRAu6Zd89wNFzIT_YoM5Zs1l0gmWh9noZ2q51TL2uGcynSV3h2yrxd6zCuqImFcPRf21R=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Cat Café\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeGFXjkS0xW21VcURtvewG2A0_cej7ARjY45FXQMbt9DbIuD8djFUz2HIDH1s4PpaJjFVZCgdv7VmmbcvhuTX-mFaLUlKyD6aj2XZNl8xlHbHa_XdEd0rJ0PdHX3C7jELESL2Llp8I_rv3lbjXKZu5k3zCu=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfpgckWHnGZkpslF7TFTVVNu5E_JOu8FIFpbc-GpSbPXOyTUbiCcxeB_dRGWXHCjFkdJ9-YT6kCdDoQxbRi7OnJzp15Dy8Zmazh3Fu8ruWmh3wSvMl7pYlQf9Ad8xPXDctp3oUKwCJCBM669MNfz4uixzA=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Waze News\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQApMK2duZ3ydW5YLnmu9GFbSVOzy0vV1CAkoJjFITtjaNrKSCVV_C5Qfomn8SjFrEa5gjbBrBQEUKtuTlKrcghgLQrtkSxTeUVrS5vDIxAQyt0diYa8STXsVLJhN_xt-Q2bx0OurA_d0QCZp-m8PLNgU1=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXekb9pTeoYBaKb1xKKV1m_M8Jda9v1aPNuspeJAS061qMWxJO1bR4UP9MJskXfze6U1BWmbUF4bMRTVKb5KxGESoV63dnWmt_IklAay_kTzXXD8cpwF1j6LKxt_H3VbbmARRQzQhqn-8FpV0cDEMopwYrc=s800?key=CkNyrCBdkyndXEjk8IRlMw)\
+
+
+Região 8
+
+* Life invader\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfHGMcpuy09Ep_aMHpQsyt0ysFu1Y6dtBjdundirdu-skuv9UT3320v8mpjnrzUcIuxGAPl6n5tpNHCyPrP_AOmyv-ow8rftzCTW-wEXiux9SXOW0H8tTxhKE2sZ8i7G8hQMHwqFaR7EU-V78la4htyxOX8=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdNxBRBpfspTvywRKSYny93K2MHbUC1AICiw274PoU7OFovg8p2Juwo_yHmts2jASw8HsgxmNV898b3jo0BxceMBzEisnGJ-3sO7rkkG84Di7gDzgocr__chkUbPKsrAr5skX34HSxnjLYSy9p6ng3IGmU=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Agência de Empregos\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczmfWibAbCQd6M5v6EXW7H7PKwHM5R_PE3jDpJK5sEoSWmBqKA0N4f0_5ojkxWeM_djfWRjDhvG5wVJfvuFsFa4E2dortq-PsPfG2GSC6oxsopuIyPGUHwiV0pZTcRaIVhL5Wra5GDqQqVDTHiv-hNtf0=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdftDiIWGcM8lcTfhL122Rb9orqQKWpz8PLGmN1b44UvGbwqJxuf0FuXLRh67P-_odLpDGihSzUeo7tUUsqTOY4CgVnGkvkz_dXDLKs4t5iNp0NDy0fw32pUdfBFhBZJbcsNQUw72TF4wfWeNtm0qM-Vaqz=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Shopping Amarelo\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc8PqvVTijjuS7ysN_vg_nW8IVKNlvyDci-pjabkqEe0jZyeWW2HdTnUsFpbJX2Z2CZVWAL3uup9vXNPzrI4sJ9ZE3hJTzmCW-sg5V1a2lcdqtsuKnPtKDMwozRVBbeEKstBT8nok-Nh0eMdssFYQ4znMjo=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7RfNpvExw9RCYZGBCzlDZTmhgisnPlStWvrE1kQd14JPV84llOu_On9aa0wg3KsAPdkXgkbDImaiSDnjw7XUTVv8KpHNGjUU9I0H8uJ5wZtTz46tddK3mj7vY9wVL5mIT451h4z6ANl0nMQiygX7z7jJg=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Los santos custom\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbv9G1cyqpbLEcQQ6YYAn-t2G7wFjQi37SIM1DKoHLshQAG9huTJooCJOJVIl-afjIo5yLsYaTyWpqMboRYs265NBY5ZioiBCcoppGcqosc1-rhc-SNS2ckVWEK96WDEV9qUucwjJxjmOU-48iVW2SPDA=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd5FM3DUuypqlML14Q1Q-tPWWgVpFa03MoENwc9gI-iYZtl5hgrk9ACP585mBLTcCgDVktjkoYOQaaq_CkdzJZW6797FpLIwxpDOHWtD-35J3r8f30PCHpeIHPRE0yk_edAPW5-X_K4eKdUP3kSGhcROHPo=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Joalheria\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqufhgYe3yWwBh-OSt0sJAntV1smncWu65pGHT7lyR6fjROjjHmbUe1UkBko3KILRTN4X2NRXwUV4uy8hV0DQhgh4KOrXVU3pyujubD4ruihR4qYgtISzZuYfIxMLdsdMFjrxmX2C3ojMi7kbnYbJskhEz=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcW266j4e6FaLLNZQSxHkG2bZMcXrCBiPgRzSygDNMHJDw8DgKqlqTF7uJE9yU3Edi-y46z4dSj5114xdnUT6VKKRWGsEioAFkXqacyW7eHeR7GP1tvAduGpC0nqy8aRDuLLBIP__Q_qfUtUOWxAi79P5Wo=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* HP da joalheria\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfv76tTyUnd2bnzgIxC3Lz2G-yxL2DmgAwEO70i1UnjR9pZ_3FAmAuIyiC7hRsUG8lmqMnPToFVCttj5daPyF8G6Ds-Kg_Km69n8no63W-aUS-WkMFf8OTofrPciHrUUTvsvBp1E2PDCOd8nV5CEXBtT6I=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMBrZIEoJWE38bD9fzjDRHn-lcqjG2SZBrkxHV6TeN0uDCzENM3qnP1y9eCB6pgI814amydK0VhSm8DCT2kmWHp1hQ8Ss_OYRoU4T8yr_epanGLoprBuZUtU_o34H9e35SasoKD5CP6LqcggzIGEQHfSNr=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 7
+
+* Tequila-la\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf8c6oF61wLWNS_fl0OC7rMw3ShHg5lde_tR6qwPYhE2Id10e4IscQ59ECt7rJ7isfgvJfOD4Yh1g1fuSBhU0apRj-txwilqYUZ90tACWla2S9nZQ7zkjKhzm2EiU_v5ouX7FgSQMrsGV6UlJvnP_7PYEUf=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6YN8FGhgu4r7scz9_EPUuefiK16IVezAWDFW778w0G_p-lbvO0fIeHXZP5MmF7AcUWJpPJwiea5j5GMtvf8QfHj8ITG4jwIH9COFImrBWxm08QiANtI99M8k2eZX1u4xyTkEY_rtXxye32C-qp5lxafzw=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Eclipse tower\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfObSRRxSAGlzknTWTFBhgGNxrqIZy_h9xFo-60jN6l6Qgbza1zyxaa-5eewfDK7GRAFuthVSiWQINxVK5nBIxtaaamWZCx9Og3tgEJ2NQFfd6QjaEgEOCkIS92VLkWZoLz7QJ2fHvHrQOtOztv0B5y1WQD=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKHaaxULRb_VEGCVtnwqgKE680XkbD8aS8rHMZSsN4d4-FVs_9idPqT1Bnykx0rxPrRIGch9gBLGY6JOd0R721h77gWslkExLtFyzXKxpAR3iPIKjl_WcOpbvxoYxtMR5RR2Q_DYa8V6F4HFC04XG3tLbl=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Comedy\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf7961DB6lpB1mOxAAeTu6nNep9qs7otPvH8Ygvy0fL4pkVfbE-7isZLxVgzpr4K1KCp6D1uNcqZggsXaAAkTZ1t7BtbtNNiJ149J2ZSsVcrENtDJfg-EPGtGjKAys-p-Bjx3lcyg10lOE9tWKO5RozAAY=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfMw8b-shLKxBlDgaFke2B1S3nkQs6eIeU_cBbyoLeprgeiLkg18hy1SJbgidrI82YwiXVMywgUhn6dkffA3aGDgmen7EGEJyDyTQSKCxVWxeeRswBrdnN3B_vKxxy2Pg_6sNYOSAtc1FSBfVXWQ5AZDHvX=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 6
+
+* Banco central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZuD40InsowiqSS-Cid5VlD_lx12PWaon1pfUuFeSaKric75R1oMyI5Zy9w8RvGM6W0Ev3d5z8dl0Z05Kjqwj_992vJsdQb_sRXytFlmLOTNTGG3r3l8ItlpUoL4pJH0dmlrnkWLAhGdjgeoW6kiNkzPus=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEnWpvaXCdVtBfqlW4nOE799VrLQ3qQYhH4_2nSCiWZ6e-X-D7A4S-g7__iQ_KXKQGOVIvmTKTh97KDx17p7RonLr2TyqUzQNxYeGh95vPznwHyXNExEfv73rY2ATsXBP30daoiido6PyyMU5bC7Q_S9M=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Loja de departamento do central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfjmbbx_KejYzgLCJUnpVBHT_XMi5c81H0WbaP4TKIEugsIg5jJIHUBdqtWQhmJ-Wcr_Y6CavWrJWzyrHN1Yk4VtXIK5QqBaeuRkgvguPY7XweKevCqUrUAySmll-cMiOmx9d88_XdyICIw3fAXl4D8INO2=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXccvCvZg5i83KEaSDXO9cib8eH76DCngdXgkcLsfY8ecrlbawm2XEsFj_F03a4AOOnC-ItyH38JoKN3UPwdwmhRSVameIyONvZx0A6vK-e_9hRNqmGW_jTMaeLM6unTVgdOq8ek_KP07xlAdPuFkcZe2Ok=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Estacionamento do central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdguW05GkPsEBt3ls8qG15T4B2r132N2rKcSz9S8eU8G3X5VvcVpkGIOPrV5cww49okLmQy8hnSLMpy9RXTNiGjJYbnB8twj9Q4L7PppaYWtn5bVp0590-TdJA0mUZ0vR99WOIcoVVzaTAcHPeBB0O4ZDQ6=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe03bg1LP4LWzXHXtXoBtCDq0KzYscnHBph4dJXU3kSSGP8cbmgrA5mfERW0GpDn7q7ULsaJIVtn-T-2Y43fxG7LKCJRoGuhr2g7Zsdb2YxKf9HMZrv9CLBVHEGC_5fa0LgqMdmPdtNzWdKdeIPYwsv-xmH=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Vila do Chaves\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3kAhxYKQXLHJr2ho9lLPfVI2_zNL0asBAkcjBvX2glPnrB6_bdCWwoIlMf2jfY3z3LJgdesKQNnzATLNNOE5BhTj3nxFv2JA1xuwS8_7lDMMDW99ZqG8tEUZ4Ucg2H3nF7c3FA8AezPx5znX_MC-SDMme=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNofCDoyzCkVrJ8DH4px8abla2JtjCeUT-HZAcc1AsU-rHxdA3nkAPVmQUQ7fkc-28ods_xLt7YTTu5xI_DwxaTlMgLKXR3uzfbTMJ3M9GK8uG_-K7ORhJgxot9faWjOMHG7_RMoG3bSwbPBjbT5670Wo-=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Flecca do central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc4VHez6EpIFeOrNqkI2DO0UP8qE5AKidk-mj8Np3Pg0thgE7u3QNsqUP9dXQ3u74TIuGR9lfTJPxexdM3IHThy_R51nT0ByS8edNPONjp67EOp-AZFEaWJcSifzf1n0PMvmZws8NUdw-OJq__HcCxFT4P9=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcd77qscZlcamIY2Dcr1budCUPQgXktvMHUfCFeqZ0Vlpl1eG9vTJ4ymqaxZIcZY1o6JX179RR2GHC1buNMTLMCyCB2wnfkJcKPhZVIBHshubYLJ-6b3AWYDYnmFH4m-GffcZGFDUT4wClXVoK36XKApYsf=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Posto do central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd_Kq1yAw97dhP0zB6LsUWNNk5zvSknwguTGmUifM2W2VC-PRD5tmOWF4-S4e5cHdnuA_DMi_E0TQAMfQyvBQ2Z6TV9uQA3BMQlCUFKK2mber1Ob8iUxqUFmu-FrTeGUHdhUWQFIFznlPzok46huFaYeMo=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2DU4Ci8X6Yo3rq93Wvxj5-Grw31TKmCnufrSee1CvIG04DcSMEbceSAnsb58wlAqeBi_WoxN-j_ldWMFzPfuUKqrRkywmtStFHnW6F2asDVG6viEYvnUygnTBKKqYicGQbVfsYf8iSnOocwTOiekNgNg3=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Construção Alta / Construção central\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdxblVko17UlAQ5VJpbGNOQe6OKAybMc4Il3E-8FJAp4EO-9eaBXyuw8rR6UnSnRJ3JknnL7X1j7dsVnnE43LFLBMrP7vhHysBGjfoELF3kxyqMdcoJqObRwmVPWAZGINt86GAtN5O8xrCv5bsRx3mCUqw=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJa5Itk4w_3uJwYK-PM2bzWf7ux_CA-IhI1QVjH-3rVIBe8Qscj63B5FGve_39lxqf5-c-tCnsZ5AOKTbeGMulhQu_akHpMxzSL8n2HYsvHx6flu9huU3UESjHUd2O0Zw5noP2nRlYtXeSvctVBQo0ucpn=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Tribunal\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDaEzzx61F0POeNq-elzPH5ZHiayzuvjvZuYM2Nqb28OQSRuWVHfhlzJK0rUFORCRMzd-oIPMsR6k3235xQRpZwzSRlwVrvM89rh7cSuDClWEHhE5m4MGsSFZRNwHiiOikA66663vffwO_2J3sedNMFU-S=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdgb40QfUwhI45qbiFopcAly4hd1SbIYCSi-6JoX8cnvkkuOrFlh-tfwEGfGLdNKV-EGyojA7ZxhP98ZbDnQYUhAdQKEKKJZ2-s-z3Y1lMiz3V9EXxAndBGgHfF2FaKryw8JrxfUs_7bvIQbTJ6p9eTkRY=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 5
+
+* Cassino\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbrPcfNg3GsmIrHU_lWqU392couejhYj6rsC73Y6O99qk0zy1qxiVdFvCu8y6tOM2PQ7WGpu1zS5pwkM9Ml_928Lc6leZ4ew4HJKfuAsWJ4t3G89FU8twT9fpvlga-v4_iLvmQ85hJxZ9WdiWErbWVMy1G=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcidAjDGFjXdz5O9pnc7fVZaS6DhajByf8flhUIPtwxWEnJP5VR-IOi6TaFyKJeQ4aQbt-Rr_JmveY5MN56MVvDpg9EhMYxaEBChkv2YVJh36nIcJWmbfHA7JErmzYKSlA5S6xwqIiZOeTVJ2SxfQWi_8N9=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Favela do campinho\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXco-EX2hfWpnVI6V-9IgQ34YNjRl0-OziKOoJ5hQcPnZYeS4tYaK2NX0Th23K-rHck4mcoCLK94Q8NcVc6k4GMn6mvwnJdCSfWUt1lgS7v4jnnwiYQxxOiKgIXBnsjaZPV3KM3ayKs2zes9S4rixF8_gGq7=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1A_gL58fve-8sEyC4EO9gMkl-dQu2U8ZriLOq7Gs0rIRaxueK2tCKtBMCKZFBeiqSNIHOVPeUQWV4RBsGUx_iHJBcLg4EmmolP9lcUZE4XUALeMk0i1-GWslRsnNshq571spKwiGW4H77wSpqtervKoKM=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Taxi\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeUI4jVgskzufTMMV1pjNgh_B-snFJUjsDtwrv_Ds6uSDbzXyWKs_Q6_t5NEF5NW9BkFdw4O55XK9uQYmyag5EJsBoYmPYfdEjVOwvDoAJ6mau4JbrJS0lgyEs26BKjOriJhUmm5C3hExjEdapWx-rYUeSM=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcbA3gucRivKpLMmmF_AV5dYgB-mDxYQAhL2FOb_cpIgD3UzRosiU-2UgTWsC2t9Ml0E6r-FbqOXqKgjTPphBjNvWAp9N7v_fyVWIe1QMDiAw_6ZkYbPMj_WW11NL-nyu97J0RvdefAxvrRmvuTM3FKgOtP=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Favela da Barragem\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdP9rrnjX3MvU1RbqTDCZ-WFhC6bHelev5-VMoLJ3oIGEQSXZVxYZL_10SRUPAPsWCiGv30Jsvrknc6IMoVSbo4y6ly7DZnO-a8MKIFm42OMuurvnJU9jsTtss8zlT9kO-hAcJ-pXFTVUB06JEZaEHN4CXf=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfR2L9E1ftyLkNbcvD5okwL5s0KuenG2Leeynfg2IvMramdzB39FkOpQBDWcbPDnBVyV8d1NiR8f579Qf9t_ZXWf9lpjJI9I6XOYRw6ttgDpeXyUfEQDY-EYXQrCnTxTP-_pN8ioB_il-inCuwq0rdpHDw9=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Loja de departamento da barragem\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEaX3wQl69oFCUhs_hJTaXr1ABZwYWlNEe52hzaPoJHcVMI4vhbZsqH2zm4evZZpK0FtO2JUfBolRdIvTcP6D0RaS5rz2wMFIhzGE0WHPfW0--ZuMTChTPLHpRdS73HtN1-RRpGBpCB3bW4lOopEreVnMi=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcF5EdhP_Bm3gw8DWU_OUt44W0ftgXEQQZ565zwRJf8QRz_K7ePTt9Q8sxIrfUBbbXdV473n6HBO1KHcE1POABWWw_mOyIirPBDcXp9PnRdTp1wpJQYcxHZsMS7KLE4MuoLrlYayuFrErInbeR0zf12ZVxG=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Lago Samir\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMzQ0waNwPW0VV05mrFLGUOyFFU2G1e9hVcOqaS3Sz_W1B8lgSjMs8HAIiP8BpXhZ1MDXRBlpjVhaxBCSbN6-4RoydTs5Vdo4Czj1b14rNR78j-yQ_kWH6mkT2jWf50M0z9SIYstkPOvO4r7xGL6YYFqw=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdtoKV9pdz3lBym4JeHym8y0r3fhgxsYZ9ajp-zSwzEXWKIz2nVeSi7ewP9BgFPiIDCS3wYltjPJU3q_RLdXy0q0QF9X759fJPxUtSs7i-JECZ2nqsCN-A7faCxLPy5sTr-h72iz2gYVxo1-K7X4gLSfNlJ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Favela do Helipa\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdB73V8vLpQgyrY7N-v4_NsvN5kZnFqGAWr6DbN4XszGzKO-zWhSYljy9gfygEUs4-VGe7LSb8L31xHKfXyq3Hb6EFBgM-tg84HwpTKaJkj43rsyUS1zyhZovUd3haKVfK2hWNz1eX6uc7S3d-OaEGfn5Y=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf733YCIbFWuaA0FLe1IKgKK-OnzR0YiwODjBwSDNJP89vdNbDdDz1rJcyeFFEr3l-pP76_Rf2uoIb223l5RhuKvxhhie5HALsbCX5doX8Hym_eSSuYgWLwePHqMySe1A3GTCdOur2Wrfs5LbYmWXtnfgRx=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Moto Club\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfH1M1oxmaCUPKrNG8fOU6z29bdowyppJticId61JyQL7hznaz6P8QZsHv4Q4uq56dRKNiYtkQWvV0wNhTpOButypiJYpWiV41PhoZXDwygUJOs_SrK9P-B9FA57vfuL09VCCP1bsqgA5y-z8rZXyvwoTg=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcxJ_0nI8L24FoLMbRyphkWzDQgb4Iwc_GmOMRr_xxY9uQwaM2ddlE2NnPfN24t8dkYW9cRd0_61vHSftEe9mwB6FxnlV9gqnIkLfDO-3kiVnnl_v1A88Bzzt07N4Lkm0m-UweiXafPBwedZUhUgW8hQz0Y=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 3
+
+* Loja de bebidas/Lavanderia\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvx-fso7OwdWn8ZkBTi3JocrzEVwXCViEh4PoMYZvulI1c3f8zhNZk5x64WdrjHbxVXSKZXLEqUhMbIV54Tf4zz1ReIfMpwhg18LScM2n1KIpO49UXlxQ5QvtbsxJTcJ2JBWDbXLc8Oa4qVV0ZlGR91p24=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXesBO2rjIDk_6SxDvvZb3EBl4_oF9ZNK6yX9UKi29h_8dorEtL-0LXuNvg_OHzWjvhmMBC76_aXF_4Gbd0QfF0Nspzl05Kj9S9klysXh77MC6gLEQM2YqomOKk9aoUdk49x8aZVWx3cj9U06qE6O8xeIKE=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Mecânica\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXezC6PH5YSp4UQPtkB4WPmnd7eXsilwMcyHUAJ7Sq7DBMTqxiDPTZ5UVsZEahe4avts9FvqG2k3gqrdLAfDbsC0yymmA9pvyeht6RtZCbgf-SO0QZv0jWlHQ74fzEcllmYAbz591Sx0XHGv74xgYtvMRNcC=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcTqUINYPH7UVe8ZwUGzwjEr1Mxv1bJQssCAVbkrFXD-y3TRWcP6tRuacAiy3Bm1MuNDAMYLAERx7oMB6h_mZX8-JHFvGiIk2fqZYwLKegeHEQbx58cYJqnoalh9fQi2ENDJoeaWPQwST_EalcTXOV2uUYf=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Costura\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcuxqYqbqWO6cU7fz64JTsSHdIlNLGVhzLoW_5pfepOKUA55GNcAx0_CzEnUFBXKpUH9hHXE7YQlatZCc7a6U7DE7oQL-BODCSg22dZ2NV-Z9soF2T30cXWVVXCQnFm3FXuB1QUZ9bE0pYRqooIrtISBQVr=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd6oTQoWwkaRYmwmyPHe0uRSVfC2X1ZplaOmoszhTZhibQDtve-v8hISXEQy07UB4nKD7WE_0If-vq-Flvmou2O11m5zWozFsayrSjtSOyatfPiU20RDiMJIfjPvC7MpvWCa3HgNdRVTZePJOKqEoizelAe=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 4
+
+* Indústrias\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdB9FS_BGuIdK1xzSU4EOvcw1aF5Kg6JEryT6D04DsJHJCmzEPf2T79kXiLmf8ktNi3m6lgKBRUEnBizz47n5tZXIs1GSVtXenTjKWUCBqvH8rIIqrLTwAEshB2lfasQVh_Ry2Zv97UP0gIjaghwLg1dcZs=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyPD_Jm-tmq65sHNnyxYunN6wr4rQrgdHhEB3Y8IUNCrd9t-fDfQd39M7MwSJiDgjbRjnNpJnVwBtKDb40P-zlIrVD2fLHEQ9IF7GieVmvRrUBAh0dZguSua7_IwiGHfSZ2cXkipTbQqZUiMXbiXPlYIV5=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Crips\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcyDqVs3_avur_X-5yvychwMGl-aR2u3Q1eC-WwHSzKJd6JJ8tcfL4RBFuIe32KQsGrV1bZDc4XV6jU2ewbwW1BnrFzGzGHZyXJ01JIHdYq_MXm_9_mC4hzTy6Yfsy0bnFKxs22T5gCtuxPtxz0k2uYtaqi=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXepSMwac3VXIIA-po7sEq1aV3d4VQk-Jp2pHW531QZws1HlfBovCDsBJewJU6Z_XC3yXTcTAZU4dDW55rlhcYCDGdXybdHc6Drkp2ruzC-FXmUUihNCegVLgXsRQo9Rl4wI6eP6VEbZ9IstikIMgWSYR3w=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Hospital Crips
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfcBFhC7wP58ubqXLDW17kLUob7inTC4RRwbgeUudIlsWcQoSNdG2YrlsQv6QmKK_KjwaCDg1-0puKTaIFm1MMNs48HqJftviM7tL79pNiwqBknx5wMcSJBfSKU0fkAg4Cg-v-WIIXusKoRz-9gXiAlVjo=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXyyQBnqUPY_M7-X6HiNjsg5cEH5zBO5jVxyaXIWyLprzDGs4xSs49LJQ1sIYlPawT7l7YpVu0Z8A1zqX4nAbxOzmgMHLXTwY-UeUoP6NhqW-eyfz93oi6fw_ieazI3pz8HzkxBDEbErm5L6dBNQxJ4Ms=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+* Posto Crips
+
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcjP-3DyoJUj3sLZ_LJ4Ybb3wPj6946COF63RD4HTIF05_CcHZ_8xHMBubl6bJBS66e2DAcxDT19K7_lo_A-aPtSJHbfLnzd_E3P5DCG5mG7OblY11F-s2V1P-kgTUX48v8pT-WoIPj8g8U4hfB7dMRoW5V=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdvZT6GsI2NU0z8kZJaHKCzYnRj-6jh6qcpWVOv7gVpFZ3c3fvtuN86hPv1lvIvY-Fuy1u17Gg3wi1lPQoKGyRqyEISk9GjmsUskb4x59M9kVd6PQrc7AZGVq3R_Ct1_gkHzr_AaIkwUpKKTf1YgoAzmrwC=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 14
+
+* Porto\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3ixnjQHr3wK4iEpDdBaZ4j4ewGzguoJIBhKQc3cIvHvz-W4g6EYitCEoIYNqGOaApXt-ZTAK8d7GAD9IhS2TY2tvv8TPm1nWXu66vWEIknl-a8S2lp6dkECI_jWaIagT3opKuoIozTNFPC-ZPAqKqgFLE=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdlKs2bDvbHg2FdPl1RAXw19px6gsODQvAfmFoIkCmxcjkrWleurxmhcjoF-0Vl3ZjxaItAnCXnDnXDtSicsC9DA07H_8qiY-ejelybevqLiKlMuPd92C3-ZU0heb6fn6IXE2ROfgfNdKSQPdDggp2nVFi4=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Ammunation Porto\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcE3eUPyKvDZbEdt73r3PncozaiQue9xdmdL_jiYtdQG_Xjl94CZy7nOp9-0J-L6woBzvcnwjimNptcTySRVBI7M6IjJXcAjZejWD_v_Hll7WfH3cwLte9vvlJM869mpSn4B-7nddnd6ffBWGqJb4srdsPC=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcGrhWKr7dlMB00A4pWtSChj2-rdct7EVedkRTz6eOwAXJoOtHaiuGHPaAl1cJO6YdLfuxIT-5DYqtvPF5qxxSp-A8sLDMYlEWBdpbVcYuBEIdXuCVX6LVH_a2DkpiZUrLFW8pRcMtqsadbLOpLWJxkPONO=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Açougue\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcsqPUTuyyv_DSj9ofto_xG3BoOAF6_XNr1iuV9yIbM4TjEdeRqaC8wEwHO6Pllf5OBnsGJqyanqPkoh0FH7uMrqBuh3I0UzNp0MKUcOnXHfgc2eKhYMC9vVQWLO4j9TQbTd8UQ8jAowj8KFY7Aj8rR7vmb=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPMEizD1pGgOd7SuWcOAv5hwc8vEa4i_mIn4tKojT-BeZENQx5vUbyFohTxKfAkpWlSmxV6255jfQwTQTQmlM5dq5mkwmmktMMbo_L9AvbX-jnIY0dJcoxsGqfVoRXSaTM_Kuk1k0oxymWfexyh43WydeG=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Cypress\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcke7P-YuEYWyPZRB_v3Iizx9JVJVv-agDAN81u3_kI889IaOeINJtPyNZxlO17hhn4LJg1zo-f5XUsT1PgwpRhVc3u15R6p8M2hJ50StY4OxtyQb8TKShD6TSOdH19_HGZf00KcTGNDa5Juoav5VpamX9T=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdYSJ_y8cFAEwX9rEO3fXyqEXvzZV7PuqzlQoFt0_oSrlpNwxVfhPG-kSExdmITggifMT1FAvXz3EMYmVY1zAe1EL9Kc8UYjKbMc9IM5A8WSRkoQ0JWcl_I9DCbeDij7Z6pX-cHbAL-2N2vbdzlBoLnSii1=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 15
+
+* Docas\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdUd7TSMipqFbcOgsX572gmpYKzgeyrBNwn1M1xxS5dfOk0pdd2Dui6P6vbgO_MDSaH-65lWd10bL_ogwYUZqaX_fGaUr3aGJq31OLXwiYPwX8EJHGG8YmK2V0WYfPKZbdiSfI78kVT4iYPXrxDiO6tUO5a=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdG9ajYhB8bJiCMzF-6hSzGxlpaqUu0h5ZLMXwAUt8tQUpKc4cGl9XLNsB-f5BznAmd7vmEcFD-puSOLE6MOG0mvZxWoMwlVNxV_UOPiUIz77238ZdlynZGXAdeY7pGokrJnVFoDuZAoLPFvWgHDiwAlJYm=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 2
+
+* Elétrica\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdjQAoz6gwwpyNoxe8vSdZU8yhyOchZJ2EDJNLy7KrQlV5gYVo2lnMMomVoDuu3wH1XBcdlVBCkOflyCeFecq60VzKEeZTjPRXdyCoj6qIJlYRGDYCoanWdYDW8mK94DT920oSVksAw8_uUQdGD3RgdWtPt=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcFGojwmiS4oAcjcXiFj6vm-wAaLXTJdyBz1bzAaKa3UDNBi3lAu2rVAFT-zfwAP9Mx_qPJ8VNqfwphxQu__38O-DXHwi8co9c90qdMsNcTxfVL-RtBwPfQtNk2XNWntH5MCIfSx57mb9rgUPzEk_kXxLQ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Vagos\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcJvlpTHXqiZSawOe28qPJ1Gac9n8549z20ZmlQT4WSZBRtapxAVwmnmf6gfwWMK8NUUipLAWdPLCFNb_1fEFONhUHjFEkhmrdoZfyZMgKa3JEZy4d1gggN_E7KzyVVfrVx9Iey7rmDqLtS4Ksq5mriBaSR=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLKepg0LyKwyun-QahYFk4ajzzgoSASu5-voRbo5gAayn6h5OwJw6Lnp-NTc3T6Vz7wJ83GslsfR_J9Nub1Wtk1P742MS4MPbFtlmUwhNQ_m9L2ww2Vk5VVxQu9GkbLu0R04R33dxkWxZN_xHla4iIRjGa=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Estacionamento marrom\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcmpMSesBT9w9vVrw1qiREws_nl2JSxoiCuuniORc8Oh2Sj1OitAcKfk6v8GVof0tDkzCn0MJrPBbC1YP1ulaTL1O5-G4fRiDVck7UvZQBXYbeP67XBFjm9zGEy7HSTgPjLaFRoUd6g2XfNld0XF_TuXWI=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdZZlBUrX-mo0VjTU13SMtb14BvFXH45yYpS3NxOERVVu3gUxbDUbXO2Bty79wVxIvKMGYm6LqP8QkT3o3JzFV0bDTpME02Fe1U7Ii4x6La1mWMxWVzPe5DjiT0WRj9CH0SYAIjTzZDcfc1WcQxBDU8Arng=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Mega Mall\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczdCsY0Avrxe5Z6GqMukICKEQdHNhOIhlRP7R3kWWNw3Y5CsnyVsmNgZ-3qnGvKDo_BHim2BuvJB-kLH3Rzq_mazBqjjB8Jcm9BSabDYfvfCzFU1tsVubRA_NxNt_RT9s424o0rVqKnN7Nt9DuNqI-kEa4=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Bombeiros\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJEc9fXNkKSh1OE_LU1FR4L2gRi0bdZrc5O6bm1gKfS7TWZ1HYU-ZMo9QgDTOLV4vwIPlV5EuGTWrzbgGdY09F4k-3JGa9Od0rXZUfJWqewv2HmHQj4NtlbRiPBPqm8ZASAP00SfbbGQ2AFTe-IN-D3VE=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOWIUkkNMvF-c5gLe2Ifdo3-79w8ez_d0NEhFG5X_xJd7eSg1SMvN0qgvWpHzI9x5lSsEOoElNJyDmJGnzfYtqFQTvj9oxStJLaBCtAkzIF8YYZ150O9ZqfzD-CtYI5YUGnz7cHuka-rtGd2YV7ijMO9A=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Vanilla\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJQzwUUJjz_VadYU5tm32-XOc44AcFGPpbddzRsAlYEryCAlRpajVQTaMvdkSk_TUkt6YOZOni9-CgBK1U5R4lBM8GY_rQcTFas4utiOMPEVeIVcbVtgtstwpbI_WYCasPT7NvOHvf60ayAoIlyd0--Tk=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4BhzjSleUTgXkqLjEuRkvvDmMORz3QhaqTdxYjp3OEXLDXUMboRFiOUZlJ1xnA1igJCeoofPIFFCqTBBjdlrrlTuXNuqPgxSux423QLQqaBfHO0ZpKg7ioaHtgENHM1eCU_TG-kWWNrLfduwrxyUh4um3=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Bennys\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXczMpf5S_1wTjHV_tvrikrLf9JngUr-RjkQRYQcy2QNIHwPTYUepREns-2_mcU_-QNYD0xO_L8XpbUn9ef8PivN1NnnebMPxsCkV8PHD2vUAkZwqSlyp0neR7mu6OcKyKQWQr-7jiIuBvn6nUnaEcHps_oS=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6k0OrGbWIWRvaMOejSynDLk0iYg8Lcxyb5CufD3yFm1VoyO41cRiGn5dD1rnElZhdhPKPmqNvFrU_eVk0htsToP-kuEfihv1wo2ug_6ORGLsUX5eITdoQpl7Ctke9kQdGz77a-FTdnHufT9S_ar-Khj2j=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Posto da praça/vannila\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfDKkEL6ncqZ4HBMTkHp0_hQmRKkyeZusR_TOZWFGskwWA_6lkcdDS0a2GJ1YWa4ur3fDIG8rHIUPi9ZDFEulg_IpzIvOipogAr2C7lYTL7ULeWbwEUOCPQVwWHNG-ljc9eN0HI6ks5wiU0f0-csxL4AlM=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcYFDr1FcjVwQzgToJ1H9cTd-zjDiToYI4DZE2a5bXNw_EwMnjShOT9ugDAkOTXMjaY9ELvS0nqJBUqUWbjYSA9EzTITyDlDXRabBVmEth2STJ7XdpUmajwRfkkqRqKyOo7UlvVfHd874_HqL_XoSO1dlA=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Grove Street/Ballas\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdB2FtRjm28Ai9xt2UuD7btdCvfFxvQFS67fl_bR6FZ2oukn3OaUT2WkISvebgBDBnWaW0rdpWzOJ9ovDaLkxDysgqengDIZwSp9I2250log8b8bAvuf711zm3_MZO-N1rBz4pnh6UvR6NstPER3cOMGArV=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyoT3UJ0QLZoiIBQi1MPAz256duZ7koxmjngMbvdISFrFxhTSXGaLocM2rQX2A9KC22ROiAgJCo3ZK98CMbqDqE1_OHm0__dYOK2iBwjThwb3xDfB3u1Os3ECYb5RyS9OWfWvGw5mDkdQArWxwMn6_6V8=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Families\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcu6vhQjUhEuPzg0uEN6M-YVAe105Ziye1TvCfxJwjT9LBsZQvw_HCxSWq2qa_XbSXXSASGM0E5cHkpYSdXaniE0W8wHZ6Dpt0qU8AwfkA50s67hhD7S_jzcsiRge8ssGYs0dzyL7u0zAxK_fDngxovorWh=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfxsba228Yv47m2N7K2PwJFuwtipRIHvAz5nY_xn5GKxtSL2OBupLclDEhXGSAzMWd54bi2hWPy-0p8L5TdL0sN1mqcy4fEaFFTf1JcUGIqYgYBWkPM22M15JT5gvFFOtHXOHPR2n1XG_uSBwGsucDveEFp=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Campo dos Families/ Pista de skate\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcqO3FzVqz9zh0eZReJYNGxejvNu3LwnaDpgXDHnxnlQvwZD4z8rpbWkeckIxDwhlO-uTcQtqWoc3qs35VuXTfHDPsQuqSC8gPJ5QcC-0EW5WEUWid_KPVRPHLAqzFZAW_0fmjmaq-CgjZOCwWR9nf2uzek=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeljxiFjFy7QXk84BL_wnsyHHnDdSAVFGFvGF4GlO7uXT3AxcNHbUruC4xcfab3NCNmiJK7FLdgsT-MA7OUtMPu3lVnpQsR4ojskkTbryre_924H7jMSanHr1sGBCP46pjKN08s8SYU5iTvTlowAbF8Yt73=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Lava-jato\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd7knqz0d4ZHfutEKz9QvYXUoZrHmSN4R1-L8OvFE71eHohab_h1ug2-qYKs8WNRBaUVukKeGsFVSnPFTB93ASTSG0Zro4i-h8LwnFs4umI8X8PKBJIMx7uEuzWkGBL1MCvOVKx6_rmpJwpYlrNFCN-u0ZR=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcY4PiDtkzam3FuNT7J9uiWWvnOZu8Hr9_T3nB_N-EtxgCbYnvinqNcWaaE8WzPsZj0f3zWiHNVYSSWL-5Bgm-KDhj9at44o-XabJp8miFPxikeL0hk2A5UBoX0dRdN5gz5nVCDjjk-zYgHdcUxYJrIs0xZ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* HP abandonado/Vannila\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeRFkArif6Y2Kf6JrbwZB8B19Q2tbeGeyZyOM3Q5HKy9VQS5qsYzUOPwXP1Qf3-qQkrkuFJGXc32MeiOfGfGGT-VNG_1p5VmWyyUK8FNMHBtciZDyxTNzs2swneuIo_pZVj6Rz_S3r02pLlKk3e061gM-sQ=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf88mW8f3TO5-TRH5aP_iVEeNbS6T01XUEiA7AhBSt3wDIHEJpybAa0JogV4U5JPLHn1016h7cvoSkGGmelA6YyVz8mPb5EsWmkX8VLAm08L_D2AwIu5C7bZMv-_mIkbnNmKWLjrqx-1jlx49Qp2gyOlG-p=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 12
+
+* Estádio/Morumbi/Maze Bank Arena\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXegEGNDqYXdsK-ICmZX3U9zHd3otdSIOCe7_aZiqMs8IVrB36c77ZgLrE4QEJc_744wbzt0A5dFPke4n_hFJPvwhCn3cGYfgCCTQJTFeVQ8b5laLKpUOwcIXNH4LnFVmuRoN4uLn1dOqz9UzInU8HjQigE=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXd1S7iKFwWrt-zx54K7kzS4KR-inW-mlfx2RTWQU42hm29lW_vRC_VISh60SKJCA_d4Glml-reImK9GbRuR8RYNxeZg7u2_0gtR59LZ9kim33xfGHnPK_s6rGxVcbLUKt5RHQHzm4yJ16FXbobCrthc3iAv=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Ferro velho\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXepJGcvjEBn6RggfKbWcBlH3hqkvaSjLiokZ8KxIFe-cE1tGrXqDLAnbIVh-T02JwPKFoP_mlJTIE4LRkRCd1TYvzmxhgimzMG16TybWjFnule6DlXlHTSyvHMv3hR-LnInhhgPANi4QOFekSb0sF3jDl4=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe1wiyIs6FcvaTs4ddUylGtZd9L1dT8iAONbj3Khsx31d3gwWaj-HA8l3QbNyeuQV_SZb4IewHEb9AS1Xq1b6siCW0PzyG3ATl_lVVkZgv90gHXPwyQSU65c0XipG8IFMNJFjHdt-bzLjdIyUc8ocrEKajR=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 13
+
+* Aeroporto (Pontuar a Rota/FT)\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfy2uN-OOlr77Sx5DzpRCV9ZeUwWNOfnGowbwVSMPLdIaIUcBNjEjrO4AOavWxx0u5IMwOVHM2MoYsmoF8n_PcVrMwlirOIcdKmiS9y0LRYhInIu8WfHDHtKLDkfNF5vVPmyQYEOdn_fKjVf-SJBNoFE_DW=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdc7qe6jz7u9hp930nTGIguBp-5P9YIhuDMGyJHbrhDO1-BHftjWlSo1fw3kaChThjrr_y1elk6zG6KKnv65sE-n1S9pPgo_GnWhSMFecCH3Y3oV5bUMLiVufRuL-IPvZbxUs_w_Xxx2g5WRScGVJPijmUZ=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+Região 1
+
+* Praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcoRnBsq-OtE1BwHSLwclmjB5oqXlEZp9sj6xosXf7mvOH0yfIJszpt7Fseskf9IcbfVL4WDV5epWri8aY_NEa85uBXjKlLJi6iQVR8NZpkbwIqSApY_4CVC03ddEYg2peuJIhHHHB6Miil303wZcG4GBwK=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoDQlns31K-PS9QbNcJ9_DP2-jcBevMmQubfpw8iodPxFlZYJRMdb3JQ-fz_CpoFMPayWo1SNrIUkTPJSeNLGf8VEdsK3K2Vi6qSMNVddo7t_8jkVLQclo4mwo1EpcDdJ1aHF5aV9URG83V3JiHlwhIHU=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Concessionária da Praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgK6V2Dg1Jw0kryRGJPQn0_VzUQVjs1HRStnAWaRyfiUooTKfNg4sF_qhdZFkhnERX9ZtKDvTlanjXKyni0685YyMEit3_9EMcOTZDI6z-u5W-0BWgRnocGVXWqmynnDjAoTIqh5pEIQFaTRJa4wSFX8NN=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfGfVq_QMhbcxR1UevmqaZkpBL1N-HGfM_-HG5tEjbluYS_Eb_BFclQMVK_ZR_E2eV5rL1cHt_mgyfHThEXGwXgB3SjXN32OFKnS4cph_293vx1dG33mztuNg7GTE48JT08CLnAzEEmOJ4hkkh8398tG0NH=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Construção\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJXpvnvFjk5e8I9twBTcBrNF6zZ1qXnYDy8M_qoKsgZcAoYNMF7GWdU326d5hKsotb2McSp90m8qcpQL-H33fELtuDsX-ZY8DRFgZMGtx0qmHmfK-lrWCi1AJMGi9M5dSKQCofk5TUX12gNqNfj75zGCQ=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcPayjrUmiD9NLPKWRUxUDQJ3ltA7NtoCqVMHLxD-mrOhY9jVkOexQ39EndAWeKGfKLM548WyhHYqKFI5MiTCgQiR3uwc052ptBfvusk8Fv7Caox-8-6cSRgoRM7opF0KebZN3oD0Pasj5u9ZlnGDiUrfJS=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Estacionamento vermelho\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf3aljpjiyKXdIX-0ad0VBoSOI-cbkokprVnO6OmZoBlyC4-PNUxAGKtQ_i6EvRwYQ01r2UJjNoH1jfU6j1UZXbiU-o2pZWawjsl8i7HPsAertJU-kUEnZP8igtgmPgIhKfIDl4tj8AzwgPfkPzLcAYMKJV=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLNnzwdZBSTfSW8tCJqNK3NOYQWK5uPQ6jfboXRcwjTEaSYacuxDBwDmTs_ozr_2JTZvU-uRhYWLstBC28lDoGTCyc3TPB00Q5R8B2ybZbGYHg-qzu7xLo3uXMQa3xCh-5sGXurx0GQpzweOzbI-MfqTBB=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Arcadius\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2D39DnKxRipoDfX9ofc35CnfntChy-Uw-aiGbwC0nwNdgMNp5ZLJia65f_osaPKZ1cisNz_uLyIimLUQ_GwlIfR26nE_JnMsh_VmBj91dYvQAaJU5LY15kriRJEXuFk3mTnpyIFDUEXqGssFw1RR1aNIn=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdbtDirqi6Gj8RhShvOb0kOBSfhM3RniQq9AkHtiWla2l-mPJvDbcI6l-3yLAqQJaguFXuhSkRqI8byIMTCausFxgSfuuzA2SurhMalelwzONxMKiKvtCZMS0VTYIODGO9hvyy6VnjEiaBPMznr_9CA2boY=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Ônibus\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfqxbDQvX9IXKqlM-YF3VpeAmLWAmyrl3zlILfoPdypSrp_BzaW0StwXbKknM7koTY3s0-nQyVyX_kHfTZhJRy-_d92G74FHEIdgnHYG4hizW-UOdic9eoSf7Ox4a0ejxiKJ7q0h1cdqOkTrxK6NjEjpcDC=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdf-iiyM6VBG3NQHZv6-j622S-4lcSjKv77A2RmBNPqAbnDBlaKzVqALh87Jhh8MGMvt6w13rza7HSBSOqD_TCz-QQKui-gwrDHk-9vbqBdIU1lm_lFxwtlLZKllrsNh8fVeT_WnHaiZEnVXdKjayJcA70=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Fleeca da praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXflynLFlJyUp_bsQN7tNYXTb0VnfRNyFqzkDEg-FaU6OhojTmbRjWdto6KP93xAvkhinCJInnKwPw1xQt_hJbhAiLFNaiyvM9Ayyn2c_hpOKF9G6xHS5t-8rMWy3KCUh-WhYoWjTYdkQ5e4s4Au0rIb9yj5=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXe9ZmNlO6UAa_gILbxif7wit4wSjsyx4sb4xxiwHDxiPXI91hHZ_RFvbuZUDBphNf3bIp4GEEMbbGtw473fmjXz8ZBE5iWTsM9UexxiDMM4Z1b7qb9FxgW7QHY-3vz6jpaLy8ea0wGU0Fr7Gz3FgDRj0eok=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Estacionamento da praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfmmLuCN6rvePGI4lDvQSxqBC3jEoEjLzIBjarKkQROZosJeFLw3i5uiwGFGE9rKSAOMLD2dp3cIlbAk48PV6OXeXkN3K539C700SAa3cH3bn5OQWIo3PUg2FvbjDl2j7nKVHKp0oLtlbHIUSc3hFLv386o=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaispZBKnvSJzD_NG9vIg9CeXuNhJU_jJttJ6U2rpNQUp3R_QPxyREQ-axidR2b8Sy6UCnaujuOENDW4YSi-w9soZ7PaTbdDc23thoiWIn14FIWHPelNGQII4GrQU_b5VhGWfvbykRkU-5AMHL6V5sdXDd=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* DP da praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdhIlgO0m_-tGs1y_FXZxvZAEgotrbKZJ6G1bsdD8LEP4PIi6CZkV9MoJWHKehf_T_3YDIuHK2uFo8578Mb4X2pH9Z9TUGq9RKFxsfehwdT_k-48eC9RO15W0lkhWgziz0nsmc1iOffJXJi1ZQnEh0Shqi6=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfZlUlNLwlqoZ8rEzfKiocAUDh2nSX3TSHrHuYdG2EtfYRvODBGpwpENj_-adZJRxtP_QgR2rVCqkcAo8D2wC2nPFg_CAUNGXf98qvhBNIaT59xjCt-FPy0dfn_EHgSg7QdXLyt8pg4B7TmYTqypenYBOI=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* HP da praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfkrrRAabPe4AzR2HgHnO9Q2qoq4L3k_zIf5VMu4py7aqA8jJMjLvBXDYfainORj3m7agy0EX6HQ_ZCY6DkL3HCLK0tMByio4N21VL71K1ldE7cIe_XcodgVSkoVBc6BizuzfNMYn_q3A-a2aP_K-hHNJGU=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdPpP6JzlleXUHZ4CopXQGzaViPnzb4Gh3c3y4LPWelalI4JrC7slD7CqoBg2DfjS0ykG9XwHNrOpJ-l_pC6t6v7DpBBFdpaQPGkEEtq-2-xU338l-eszMsOmn2Y0gwK6WROje6JXgCWZxK5qddl1cpqX8=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+* Loja de armas praça\
+  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeG9hINWJ3ZaTfLtjrnVRUom56SbaAY_MtynuyVziij7hjDsr5eklMQy57jCu-nybbsKA-ioEyzp3GVWeAAtqe7DYP9Alrq3i2SoTzHPofezykWk_9UdZpfUL_O828ALvgr1O_YpC_1MpDYxiATq232kgfC=s800?key=CkNyrCBdkyndXEjk8IRlMw)![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeoNO716f4dYUCYXu1SVM6gn5Y-yRsOTyRoPklbjBhM0ZEiIdvCO5TIrBgbpIDYy0BJh9Vpl4pevUegXbraOpm-fCHDmT2u1l79F9Y5ra8b7aCHUtVvmZI0Ad-mNpzgcRm2Kmjin5lgdzb0fTwKyvIi88vC=s800?key=CkNyrCBdkyndXEjk8IRlMw)
+
+As mansões acima do HP devem ser apenas comentadas, não há necessidade de subir no local para apresentação. Lembrar de pergunta se tem dúvidas etc, após o consentimento dos participantes finalizar o curso e pegar o QRA de todos participantes, em seguida envie os QRA’s para o comando atualizar os cargos.
