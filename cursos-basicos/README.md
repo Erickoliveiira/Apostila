@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/fundo 2.gif
-coverY: -106.735976065819
+cover: ../.gitbook/assets/image.png
+coverY: 123
 layout:
   cover:
     visible: true
