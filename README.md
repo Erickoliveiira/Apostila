@@ -21,7 +21,6 @@ coverY: -159
 
 * Disparos de arma de fogo não precisa de mandato.
 * Policiais só podem chegar numa ação até o momento que o perímetro for fechado.
-* Perímetro deve ser fechado em até 15 minutos após início da ação.
 * Não se deve mexer nos corpos até o final da ação.
 * Não se deve chamar médico até o final da ação.
 * Policial caído não deve voltar pra ação em nenhuma hipótese.
